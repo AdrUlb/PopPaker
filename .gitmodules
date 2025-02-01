@@ -1,0 +1,3 @@
+[submodule "External/PopLib"]
+	path = External/PopLib
+	url = https://github.com/AdrUlb/PopLib
